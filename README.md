@@ -1,4 +1,4 @@
-### MINST-Recognition-with-Logistic-Regression
+### MINST-Recognition-with-Logistic-Regression, DNN and CNN
 Train the model and get the accuracy, make the forecast and visualize it.
 
 
